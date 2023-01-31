@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Friends, This is my first time deploying an app to aws
+          Hello Friends, This is my first time deploying an app to aws ok.
         </a>
       </header>
     </div>
